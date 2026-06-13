@@ -90,7 +90,7 @@ In ingestion workflow, click Delete Old Vectors node and update:
 - Both workflows must use the same Pinecone index name
 - Cohere embed-english-v3.0 requires 1024 dimensions in Pinecone
 
-## 👨‍💻 Author
+## 👨‍💻 Author-Yash Thakur
 Made with ❤️ using n8n
 
 ## 📄 License
